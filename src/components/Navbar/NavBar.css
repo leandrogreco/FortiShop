@@ -1,0 +1,56 @@
+* {
+    text-decoration: none;
+    color: inherit;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+:root {
+    --color-txt-nav: #DA291C;
+}
+
+header {
+    background-color: rgba(255, 0, 0, 0.13);
+}
+
+.nav-bar {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo-medidas {
+    display: flex;
+    width: 6rem;
+    translate: 6rem 2.5rem;
+    scale: 3;
+    padding-left: 2rem;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+    padding: 1px;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+}
+
+.navLinks {
+    display: inline-block;
+    font-size: xx-large;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding: 1rem;
+    cursor: pointer;
+    color: var(--color-txt-nav);
+    font-weight: bold;
+}

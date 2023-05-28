@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    margin-top: auto;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    background-color: rgba(255, 0, 0, 0.13);
+    color: #DA291C;
+    padding: 1vh 1vh 1vh 2rem;
+    border-left: 5vh;
+    font-size: 1.4rem;
+    justify-content: center;
+    font-style: italic;
+}

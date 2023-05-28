@@ -1,0 +1,33 @@
+.cartDet {
+    width: 20rem;
+    height: 0.5rem;
+    display: inline-block;
+    font-size: 1.5rem;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    justify-content: start;
+    align-items: center;
+}
+
+.cartDetPre {
+    width: 20rem;
+    height: 0.5rem;
+    display: inline-block;
+    font-size: 1.5rem;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    justify-content: start;
+    align-items: center;
+    color: darkgreen;
+}
+
+.cartDetBot {
+    width: 8rem;
+    display: inline-block;
+    font-size: 1rem;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+
+

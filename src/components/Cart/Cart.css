@@ -1,0 +1,35 @@
+.cart {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.cartItem {
+    margin-left: 2rem;
+    font-size: 2.5rem;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    justify-content: center;
+    align-items: normal;
+}
+
+.cartItemTot {
+    margin-left: 2rem;
+    font-size: 2.5rem;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: darkgreen;
+    justify-content: center;
+    align-items: normal;
+}
+
+.BottonsVar {
+    display: flex;
+    width: 12rem;
+    height: 3rem;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    color: white;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}

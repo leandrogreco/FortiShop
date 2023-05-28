@@ -1,0 +1,61 @@
+.contenedorItem {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 8rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: "a b";
+}
+
+.contador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgCant {
+    width: 100%;
+}
+
+.descNombre {
+    display: flex;
+    font-size: 4rem;
+    justify-content: center;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.descPrecio {
+    display: flex;
+    font-size: 2.5rem;
+    justify-content: center;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #DA291C;
+}
+
+.descSku {
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: center;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.desc {
+    display: flex;
+    padding: 30px;
+    font-size: 1.5rem;
+    font-style: italic;
+    justify-content: center;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.descStock {
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: center;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.buttonsDet {
+    color: white;
+}

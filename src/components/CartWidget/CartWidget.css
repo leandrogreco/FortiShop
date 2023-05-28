@@ -1,0 +1,19 @@
+.sectCart {
+    margin-top: 1rem;
+    padding-right: 3rem;
+    width: 6rem;
+    height: 3rem;
+}
+
+.imgCart {
+    width: 3.5rem;
+    align-items: center;
+}
+
+.totalCant {
+    color: #DA291C;
+    font-size: 1.3rem;
+    background-color: white;
+    padding: 0.3rem;
+    border-radius: 1rem;
+}
