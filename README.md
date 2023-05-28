@@ -26,3 +26,4 @@ Project created for the ReactJS course at Coderhouse by Leandro Greco. We create
 
 ## Application Video
 
+![Welcome to FortiShop](https://github.com/leandrogreco/FortiShop/assets/115952114/0d29bb94-0d5f-42f7-9bd2-32fbe9d09ef2)
